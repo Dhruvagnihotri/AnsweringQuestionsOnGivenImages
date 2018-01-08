@@ -13,6 +13,10 @@ logical answer after passing the images with a CNN and questions separtely in a 
 ![untitled diagram 1](https://user-images.githubusercontent.com/35123745/34661138-a7ce17c0-f415-11e7-9e4a-646222b9aca4.jpg)
 
 
+![big 1](https://user-images.githubusercontent.com/35123745/34661161-c67f470c-f415-11e7-9852-62b4ae326982.jpg)
+
+
+
 
 Answering questions based on real world image is
 a challenging task that has emerged as an active research topic in
