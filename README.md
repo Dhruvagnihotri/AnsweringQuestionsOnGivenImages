@@ -5,7 +5,8 @@ README:
 Here, I try to answer questions based on real world images. 
 As an input the model is given images and questions associated 
 with that image and the model is trained to predict the most 
-logical answer after passing the images with a CNN and questions separtely in a LSTM.
+logical answer after passing the images through a CNN and depth CNN. Questions are passed separtely through LSTM for feature extraction.
+I have Used the NLTK libraries to extract information from the question which is used to model the probabilities of the possible answers in the image.
 
 ![images-compiled-33](https://user-images.githubusercontent.com/35123745/34661118-5ed0b6f4-f415-11e7-8820-a4dea2caf754.jpg)
 
